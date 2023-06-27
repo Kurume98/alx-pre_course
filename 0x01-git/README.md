@@ -1,1 +1,1 @@
-i love shell navigation
+i love shell navigation and git
